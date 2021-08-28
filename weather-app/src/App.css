@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color:cyan
+}
+
+#textid{
+  margin-top: 50px;
+  height: 30px;
+  width : 30%;
+  font-size: medium;
+  margin-bottom: 50px;
+}
+
+#buttonid{
+  height: 37px;
+  width: 10%;
+  background-color: blue;
+  color: white;
+  font-size: medium;
+
+}
+
+.card{
+  font-size: large;
+  font-weight:bold;
+  font-style: italic;
+}
+h1{
+  font-style: italic;
+  font-weight: bold;
+}

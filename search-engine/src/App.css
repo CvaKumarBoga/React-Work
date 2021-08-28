@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 150px;
+  background-image: -moz-linear-gradient();
+}
+.container{
+  background-color: aqua;
+}
+#textid{
+  height: 30px;
+  width : 30%;
+  font-size: medium;
+}
+#buttonid{
+  height: 37px;
+  width: 10%;
+  background-color: blue;
+  color: white;
+  font-size: medium;
+}
+
+
+

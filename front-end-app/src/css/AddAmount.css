@@ -1,0 +1,35 @@
+h3 {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  font-weight: bold;
+  color: blue;
+}
+label {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.form-group {
+  width: 75%;
+  margin: auto;
+}
+#butt .btn {
+  background-color: chartreuse;
+  color: black;
+  font-weight: bold;
+  width: 120px;
+}
+#butt .btn:hover{
+  background-color: mediumseagreen;
+}
+#butt {
+  margin-top: 15px;
+  text-align: center;
+}
+
+#AddForm {
+  margin: auto;
+  background-color: moccasin;
+  width: 50%;
+}

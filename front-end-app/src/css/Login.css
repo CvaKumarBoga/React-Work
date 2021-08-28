@@ -1,0 +1,28 @@
+.LoginForm {
+  width: 50%;
+  margin: auto;
+  background-color: moccasin;
+}
+
+h2 {
+  padding-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: blue;
+  font-style: italic;
+}
+
+#LoginBtn .btn {
+  background-color: chartreuse;
+  color: black;
+  font-weight: bold;
+  width: 100px;
+}
+
+#LoginBtn {
+  margin-top: 20px;
+  text-align: center;
+}
+#LoginBtn .btn:hover{
+  background-color: mediumseagreen;
+}

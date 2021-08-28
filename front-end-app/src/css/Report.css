@@ -1,0 +1,49 @@
+html body{
+    background-color: paleturquoise;
+}
+.Report{
+    background-color: moccasin;
+}
+.menu{
+    display: inline-block;
+    background-color:fuchsia;
+    width: 100%;
+    height: 60px;
+}
+#Repo li{
+    padding-top: 15px;
+}
+ul li{
+    display: inline-block;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+}
+ul li:hover{
+    color: white;
+}
+.table{
+    border: 1px solid #ddd;
+    text-align: center;
+    width: 50%;
+}
+th{
+    background-color: thistle;
+}
+.table tr{
+    height: 40px;
+    border: 1px solid thistle;
+}
+.table tr:hover{
+    background-color: gainsboro;
+}
+#Searchbx{
+    float: right;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+#Searchbx #box{
+    height: 36px;
+}
